@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7bdd32685e740409e91b24200952ad, type: 3}
+  m_Name: Card7
+  m_EditorClassIdentifier: 
+  name: "\u30BF\u30DE\u30CD\u30AE"
+  cal: 28
+  icon: {fileID: 21300000, guid: e92d75ceebaa84772a1619b1513823e2, type: 3}
+  glowIcon: {fileID: 21300000, guid: 1d8fd71bbecbc4110ac11127604f9582, type: 3}
+  kind: 2
+  partnerID: 030000000400000005000000000000000100000002000000
+  specialMixID: 0a0000000d00000010000000150000001600000017000000
+  ingredientCardID: 
